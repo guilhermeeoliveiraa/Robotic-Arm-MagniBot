@@ -16,13 +16,3 @@ Ferramenta utilizada: [Draw.io](https://app.diagrams.net/)
 Ferramenta utilizada: [EasyEDA](https://easyeda.com/)
 
 ![Esquemático](doc/Esquematico.png)
-
-## Simulação e Código
-
-[Link para Simulação com Código no WOLKI](https://wokwi.com/)
-
-Ferramenta Utilizada: [WOLKI](https://wokwi.com/)
-
-![Simulação](Simulation.png)
-
-
