@@ -17,6 +17,6 @@ Ferramenta utilizada: [EasyEDA](https://easyeda.com/)
 
 ![Esquemático](doc/Esquematico.png)
 
-## Representação do Digital Twin
+## Digital Twin
 
 ![Digital Twin](doc/Digital_Twin.png)
