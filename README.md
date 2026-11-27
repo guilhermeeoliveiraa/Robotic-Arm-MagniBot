@@ -1,7 +1,5 @@
 # Braço Robótico MagniBot
 
-Projeto desenvolvido com os conhecimentos adquiridos na disciplina Sistemas Embarcados.
-
 ## Equipe:
 
 - João Guilherme dos Santos Oliveira
